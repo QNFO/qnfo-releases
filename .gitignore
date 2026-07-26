@@ -10,3 +10,6 @@ Thumbs.db
 *.tmp
 *.bak
 *~
+
+# Wrangler cache (account info should not be committed)
+.wrangler/
