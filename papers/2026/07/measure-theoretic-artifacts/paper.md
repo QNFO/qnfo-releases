@@ -4,7 +4,7 @@
 **Date:** 2026-07-26
 **Version:** 1.0
 **License:** QNFO Unified License Agreement (QNFO-ULA): https://legal.qnfo.org/
-**DOI:** [RESERVED]
+**DOI:** [10.5281/zenodo.21593856](https://doi.org/10.5281/zenodo.21593856)
 **Cross-References:**
 - Consilience Between Physics and Number Theory (DOI: 10.5281/zenodo.21591660)
 - The Adelic Physics Program: A Grand Synthesis (P7)
